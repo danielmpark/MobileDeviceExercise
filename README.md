@@ -4,7 +4,6 @@ MobileDeviceKeyboard Exercise
 /*
  * Author: Daniel Park
  * Date: 9/18/2018
- * Asymmetrik Coding Exercise
  */
 
 The MobileDevice Keyboard Coding Exercise calls for an efficient way of handling incomplete word prefixes to "predict"
